@@ -13,6 +13,8 @@ Summary statistics dataframe
 Bar plot showing the total number of timepoints for all mice tested for each drug regimen throughout the course of the study
 <img width="383" alt="Barplot" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/e8610eed-d631-4e31-a3ba-ceddac629eeb">
 
+
+
 Pie chart showing the distribution of female or male mice in the study
 <img width="214" alt="piechart" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/f59cd923-4ae2-4618-89f9-0691cfba0432">
 
