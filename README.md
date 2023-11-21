@@ -33,13 +33,13 @@ Line plot of volume versus timepoint for Capomulin treatmeant of mouse l509
 
 Scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen
 
-<img width="340" alt="scatterplot" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/8d5b75ea-c3b6-43b7-92af-11357a9e25ab">
+<img width="340" alt="scatterplot" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/db79a104-d7b7-4fce-bc0e-6357ffcc0e50">
 
 
 Linear regression model between mouse weight and average tumor volume for the Capomulin treatment plotted on top of the scatter plot
 
 
-<img width="344" alt="regression" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/4f2bb26e-380f-41b8-88ec-6554612417b0">
+<img width="340" alt="regression" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/c7162e2d-3d9f-4220-b7d9-0f97518aca70">
 
 
 ## Observations and Insights
