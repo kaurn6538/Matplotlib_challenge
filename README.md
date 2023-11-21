@@ -37,6 +37,8 @@ Scatter plot of tumor volume versus mouse weight for the Capomulin treatment reg
 
 
 Linear regression model between mouse weight and average tumor volume for the Capomulin treatment plotted on top of the scatter plot
+
+
 <img width="344" alt="regression" src="https://github.com/kaurn6538/Matplotlib_challenge/assets/98873779/4f2bb26e-380f-41b8-88ec-6554612417b0">
 
 
